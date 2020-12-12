@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\bin\x86\Debug\personeltakip.exe.config
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\bin\x86\Debug\personeltakip.exe
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\bin\x86\Debug\personeltakip.pdb
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\obj\x86\Debug\personeltakip.Form1.resources
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\obj\x86\Debug\personeltakip.Properties.Resources.resources
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\obj\x86\Debug\personeltakip.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\obj\x86\Debug\personeltakip.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\obj\x86\Debug\personeltakip.exe
+C:\Users\Administrator\Desktop\personeltakip\personeltakip\obj\x86\Debug\personeltakip.pdb
